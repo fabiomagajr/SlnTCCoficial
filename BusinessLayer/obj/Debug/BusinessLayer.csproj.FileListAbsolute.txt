@@ -1,0 +1,63 @@
+F:\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+F:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+F:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+F:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+F:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+E:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+E:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+E:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+W:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+W:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+W:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+W:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+W:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+W:\Groppo\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+W:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+W:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+W:\Groppo\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+F:\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+F:\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+F:\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+G:\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.dll
+G:\SlnTCCoficial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+G:\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.dll
+G:\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.dll
+G:\SlnTCCoficial\BusinessLayer\bin\Debug\DataLayer.pdb
+G:\SlnTCCoficial\BusinessLayer\bin\Debug\ModelLayer.pdb
+G:\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+G:\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.dll
+G:\SlnTCCoficial\BusinessLayer\obj\Debug\BusinessLayer.pdb

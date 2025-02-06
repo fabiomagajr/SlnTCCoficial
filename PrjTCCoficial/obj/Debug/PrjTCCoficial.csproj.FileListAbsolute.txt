@@ -1,0 +1,226 @@
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+E:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+E:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+E:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+E:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+W:\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+W:\Groppo\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaAgendamentos.resources
+F:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaServicos.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaAgendamentos.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+E:\Groppo\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaServicos.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaAgendamentos.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaServicos.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+C:\Users\Tiago\Desktop\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe.config
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.exe
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.pdb
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaAgendamentos.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaServicos.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.exe
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\PrjTCCoficial.pdb
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+F:\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaAgendamentos.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaServicos.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+F:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarCliente.resources
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\Age Plus.exe.config
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\Age Plus.exe
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\Age Plus.pdb
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.dll
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.dll
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.dll
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\BusinessLayer.pdb
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\ModelLayer.pdb
+G:\SlnTCCoficial\PrjTCCoficial\bin\Debug\DataLayer.pdb
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csprojResolveAssemblyReference.cache
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmBackup.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadAgendamento.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadClientes.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadServicos.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadTipoUsuario.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCadUsuarios.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmCalendario.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaAgendamentos.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaClientes.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaServicos.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmListaUsuarios.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmPadraoFilhos.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmInicio.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmLogin.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSplash.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.Properties.Resources.resources
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.csproj.GenerateResource.Cache
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\Age Plus.exe
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\Age Plus.pdb
+G:\SlnTCCoficial\PrjTCCoficial\obj\Debug\PrjTCCoficial.frmSelecionarHorario.resources

@@ -1,0 +1,49 @@
+F:\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+F:\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+F:\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+F:\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb
+F:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+F:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+F:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+F:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+F:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+F:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb
+E:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+E:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+E:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+E:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+E:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+E:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb
+W:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+W:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+W:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+W:\Groppo\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+W:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+W:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+W:\Groppo\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Tiago\Desktop\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+W:\Anderson Cajuela\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb
+F:\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+F:\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+G:\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.dll
+G:\SlnTCCoficial\DataLayer\bin\Debug\DataLayer.pdb
+G:\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.dll
+G:\SlnTCCoficial\DataLayer\bin\Debug\ModelLayer.pdb
+G:\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+G:\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.dll
+G:\SlnTCCoficial\DataLayer\obj\Debug\DataLayer.pdb

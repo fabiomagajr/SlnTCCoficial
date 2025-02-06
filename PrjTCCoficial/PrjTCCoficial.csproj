@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1022E7FC-6DAA-407E-A512-6AF97CF4AD57}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PrjTCCoficial</RootNamespace>
+    <AssemblyName>Age Plus</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Martz90-Circle-Books.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackup.Designer.cs">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadAgendamento.Designer.cs">
+      <DependentUpon>frmCadAgendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadClientes.Designer.cs">
+      <DependentUpon>frmCadClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadServicos.Designer.cs">
+      <DependentUpon>frmCadServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadTipoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadTipoUsuario.Designer.cs">
+      <DependentUpon>frmCadTipoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadUsuarios.Designer.cs">
+      <DependentUpon>frmCadUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalendario.Designer.cs">
+      <DependentUpon>frmCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaAgendamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaAgendamentos.Designer.cs">
+      <DependentUpon>frmListaAgendamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaClientes.Designer.cs">
+      <DependentUpon>frmListaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaServicos.Designer.cs">
+      <DependentUpon>frmListaServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaUsuarios.Designer.cs">
+      <DependentUpon>frmListaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPadraoFilhos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPadraoFilhos.Designer.cs">
+      <DependentUpon>frmPadraoFilhos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelecionarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelecionarHorario.Designer.cs">
+      <DependentUpon>frmSelecionarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="frmBackup.resx">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadAgendamento.resx">
+      <DependentUpon>frmCadAgendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadClientes.resx">
+      <DependentUpon>frmCadClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadServicos.resx">
+      <DependentUpon>frmCadServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadTipoUsuario.resx">
+      <DependentUpon>frmCadTipoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadUsuarios.resx">
+      <DependentUpon>frmCadUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalendario.resx">
+      <DependentUpon>frmCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaAgendamentos.resx">
+      <DependentUpon>frmListaAgendamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaClientes.resx">
+      <DependentUpon>frmListaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaServicos.resx">
+      <DependentUpon>frmListaServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaUsuarios.resx">
+      <DependentUpon>frmListaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPadraoFilhos.resx">
+      <DependentUpon>frmPadraoFilhos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelecionarHorario.resx">
+      <DependentUpon>frmSelecionarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-system-users-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Youtility.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{db7743f0-037a-4196-a461-99e6e3cc8302}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModelLayer\ModelLayer.csproj">
+      <Project>{cd3e12a1-5c6a-4197-8b06-22d824456008}</Project>
+      <Name>ModelLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-Calendar-Metro-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Files-New-File-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-contact-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data-Database-Backup-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Martz90-Circle-Books.ico" />
+    <None Include="Resources\Zoom-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
