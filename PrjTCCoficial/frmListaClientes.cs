@@ -23,7 +23,7 @@ namespace PrjTCCoficial
             var objMLClientes = new MLClientes();
             List<MLClientes> objListaClientes = new List<MLClientes>();
 
-            objMLClientes.NomeCliente = (String.IsNullOrEmpty(txtNome.Text)) ? null : txtNome.Text;
+            objMLClientes.NomeCliente = (String.IsNullOrEmpty(txtNome.Text)) ? null : txtNome.Text; 
 
             objListaClientes = objBLClientes.Consultar(objMLClientes);
 

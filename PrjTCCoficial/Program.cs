@@ -20,7 +20,7 @@ namespace PrjTCCoficial
             frmLogin flogin = new frmLogin();
             frmSplash fsplash = new frmSplash();
             fsplash.ShowDialog();
-                if (flogin.ShowDialog() == DialogResult.Yes)
+                if (flogin.ShowDialog() == DialogResult.Yes) 
                 {
                     Application.Run(new frmInicio());
                     //Application.Run(new FrmSplash());
